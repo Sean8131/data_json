@@ -1,13 +1,34 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "text": "This is a short introduction to our posts."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started",
+      "text": "A quick guide to setting up your first project."
+    },
+    {
+      "id": 3,
+      "title": "Tips & Tricks",
+      "text": "A handful of useful tips for new developers."
+    },
+    {
+      "id": 4,
+      "title": "Best Practices",
+      "text": "Recommended ways to organize and structure your code."
+    },
+    {
+      "id": 5,
+      "title": "Wrapping Up",
+      "text": "A short conclusion and next steps for you to explore."
+    },
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "shortText": "Learn the basics of JSON, a lightweight data-interchange format."
     }
-  }
+  ]
+}
